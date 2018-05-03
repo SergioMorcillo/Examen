@@ -18,8 +18,10 @@
 
 .content {
   background: #D8D8D8;
-  text-align: center;
-  height:200px;
-  padding:60px 10px 10px 10px;
+  height:calc(80vh - 260px);
+  padding:20px;
+  overflow:scroll;
+  width:auto;
+  
   
 }
